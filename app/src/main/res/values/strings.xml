@@ -19,12 +19,14 @@
     </string>
     <string name="sample_text_short">Lorem ipsum dolor sit amet, oratio dolorem instructior vel an
     </string>
+    <string name="sample_text_very_short">Lorem ipsum dolor sit amet</string>
     <string name="sample_input_hint">Tap here to insert text</string>
     <string name="switch_sample_text">Turn me off!</string>
     <string name="turn_on">ON</string>
     <string name="turn_off">OFF</string>
     <string name="programmatic_views">Programmatic Views</string>
     <string name="create">Create</string>
+    <string name="remove">Remove</string>
     <string name="default_view_label">Tried to trick me, huh? o.0</string>
     <string name="more">More</string>
     <string name="romanian">Romana \u2022</string>
